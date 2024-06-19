@@ -1,3 +1,13 @@
+# BPM-Marker
+
+BPMに合わせてマーカーを挿入することができるPremiere Proエクステンションです。
+
+是非音MAD等にご活用ください。
+
+※現在開発中です
+
+このプロジェクトはBolt CEPの力によって作成されました↓
+
 <img src="src/js/assets/bolt-cep.svg" alt="Bolt CEP" title="Bolt CEP" width="400" />
 
 A lightning-fast boilerplate for building Adobe CEP Extensions in React, Vue, or Svelte built on Vite + TypeScript + Sass
