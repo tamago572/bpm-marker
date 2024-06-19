@@ -11,7 +11,10 @@
     "symlink": "cross-env ACTION=symlink vite",
     "delsymlink": "cross-env ACTION=delsymlink vite"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@popperjs/core": "^2.11.8",
+    "bootstrap": "5.3.3"
+  },
   "devDependencies": {
     "@babel/core": "^7.19.0",
     "@babel/plugin-proposal-class-properties": "^7.16.0",

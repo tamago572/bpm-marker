@@ -1,5 +1,7 @@
 import App from "./main.svelte";
 import { initBolt } from "../lib/utils/bolt";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap';
 
 initBolt();
 
