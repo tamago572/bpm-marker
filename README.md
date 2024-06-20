@@ -1,12 +1,14 @@
 # BPM-Marker
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6yMxX7B1hU?si=rTmMfI6W4-GrWQX1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-デモ動画
+[![github-demo-video](https://github.com/tamago572/bpm-marker/assets/110117095/8651cac8-12b3-43ee-996a-936afe9d06b5)](https://youtu.be/U6yMxX7B1hU?si=OmZwuCC6ZbiuI7xh)
 
 BPMに合わせてマーカーを挿入することができるPremiere Proエクステンションです。
 
 再生バーの位置から、任意の秒、指定したBPMでマーカー配置できます。
+
+[Releases](https://github.com/tamago572/bpm-marker/releases/latest)からダウンロードできます。
+
+ZXP/UXP Installerを使用するか、ProgramFilesに直接入れてください。
 
 是非音MAD等にご活用ください。
 
