@@ -5,8 +5,6 @@ import 'bootstrap';
 
 initBolt();
 
-const button = document.getElementById("doBtn");
-
 
 const app = new App({
   target: document.getElementById("root") as Element,

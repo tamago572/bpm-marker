@@ -5,6 +5,16 @@ body {
     background-color: rgb(35, 35, 35) !important;
     color: white !important;
 }
-.doBtn {
+/* .btn {
     margin-top: 20px;
+    margin-right: 4px;
 }
+
+.panel {
+    display: flex;
+}
+.panel > select {
+    margin-top: 20px;
+    margin-left: 10px;
+    height: 38px;
+} */
