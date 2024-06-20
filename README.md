@@ -12,4 +12,9 @@ ZXP/UXP Installerを使用するか、ProgramFilesに直接入れてください
 
 是非音MAD等にご活用ください。
 
+## 動作確認済み環境
+
+- Windows 10 Home 22H2
+- macOS Ventura 13.6.4 M1 Pro
+
 このプロジェクトは[Bolt CEP](https://hyperbrew.co/resources/bolt-cep)の力によって作成されました
