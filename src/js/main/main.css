@@ -1,0 +1,10 @@
+.container {
+    margin: 0 !important;
+}
+body {
+    background-color: rgb(35, 35, 35) !important;
+    color: white !important;
+}
+.doBtn {
+    margin-top: 20px;
+}
